@@ -1,0 +1,3 @@
+[submodule "vendor/jsPlump"]
+	path = vendor/jsPlump
+	url = git://github.com/sporritt/jsplumb.git
