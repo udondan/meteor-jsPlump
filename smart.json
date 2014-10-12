@@ -1,9 +1,0 @@
-{
-  "name": "plump",
-  "description": "Visual connectivity for webapps with jsPlump",
-  "homepage": "https://github.com/udondan/meteor-jsPlump",
-  "author": "Daniel Phatthanan <daniel@phatthanan.com> (http://phatthanan.com/)",
-  "version": "0.1.0",
-  "license": "MIT",
-  "git": "https://github.com/udondan/meteor-jsPlump.git"
-}
