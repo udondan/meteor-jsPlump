@@ -1,6 +1,8 @@
 plump
 ==============
 
+__NO LONGER MAINTAINED__
+
 This smart package packs [jsPlump][1] for Meteor.
 
     jsPlumb provides a means for a developer to visually connect elements on their web pages. It uses SVG or Canvas in modern browsers, and VML on IE 8 and below.
